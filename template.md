@@ -1,2 +1,2 @@
-| Restaurant Website | Anant Kumar Gupta | I created this website as a guided project using HTML,CSS,JAVASCRIPT,BOOTSTRAP,JQUERY,SCSS as a restaurant website | [Restaurant Con Fusion](https:) | [GitHub Repo](https://github.com/) | ![Cover Photo]() |
+| Restaurant Website | Anant Kumar Gupta | I created this website as a guided project using HTML,CSS,JAVASCRIPT,BOOTSTRAP,JQUERY,SCSS as a restaurant website | [Restaurant Con Fusion](https://maximus619.github.io/) | [GitHub Repo](https://github.com/Maximus619/Maximus619.github.io/tree/fullstack-course) | ![Cover Photo](https://github.com/Maximus619/Maximus619.github.io/blob/fullstack-course/img/logo.png) |
 |-|-|-|-|-|-|
